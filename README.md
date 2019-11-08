@@ -1,2 +1,2 @@
-# Frista-Diah-Ramadhani
-Tugas Pengembangan HTML (Deweb-Pak imbar)
+# Frista-Diah-Ramadhani TP A 17
+Tugas Portofolio HTML Mata kuliah Desain Web Dosen Pengampu : Kunto Imbar Nursetyo, M.Pd
